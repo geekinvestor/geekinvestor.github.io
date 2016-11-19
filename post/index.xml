@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Geek Investor</title>
-    <link>https://geekinvestor.github.io/post/index.xml</link>
-    <description>Recent content in Post-rsses on Geek Investor</description>
+    <title>Posts on Geek Investor</title>
+    <link>https://geekinvestor.github.io/post/</link>
+    <description>Recent content in Posts on Geek Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Nov 2016 23:40:17 -0500</lastBuildDate>
